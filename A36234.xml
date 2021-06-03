@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral obsequies of Jacob Lucie Esq. late alderman of the city of London : in the parish-church of St. Katherine Coleman, November 20th, 1688 / by Jeremiah Dodson ...</title>
+            <author>Dodson, Jeremiah.</author>
+         </titleStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36234</idno><idno type="EEBO-CITATION">17009679</idno>
+  <idno type="VID">105770</idno>
+  <idno type="EEBO-PROQUEST">2240873066</idno>
+  
+            <idno type="STC">Wing D1800</idno>
+            <idno type="STC">ESTC R37753</idno>
+            <idno type="OCLC">17009679</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1614:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral obsequies of Jacob Lucie Esq. late alderman of the city of London : in the parish-church of St. Katherine Coleman, November 20th, 1688 / by Jeremiah Dodson ...</title>
+                  <author>Dodson, Jeremiah.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Wilde ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXVIII [1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lucie, Jacob, d. 1688.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Psalms XXXVII, 37 --  Sermons.</term>
+               <term type="topical_term">Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105770:1"/>
+            <p>A SERMON PREACHED at the Funeral Obsequies OF <hi>Iacob Lucie</hi> Esq; Late ALDERMAN of the City of <hi>LONDON:</hi> In the Parish-Church of St. <hi>Katherine Coleman, November,</hi> 20th. 1688.</p>
+            <p>By <hi>JEREMIAH DODSON,</hi> Rector of the said Parish.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Wilde</hi> at the <hi>Bible</hi> in St. Hall. MDCLXXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:105770:2"/>
+            <pb n="3" facs="tcp:105770:2"/>
+            <head>To the Disconsolate LADY, Madam <hi>ELIZABETH LƲCIE,</hi> The Daughter and Heiress of <hi>JACOB LƲCIE</hi> Esq; Deceased.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>THough no Man by Nature, and Pra<g ref="char:EOLhyphen"/>ctice too, was ever a greater affecter of Privacy than I my self (as 'tis well known) have always been; yet at this time I am well content to let this my plain Panegy<g ref="char:EOLhyphen"/>rical Discourse (that was lately prepared, by your appointment, for the more solemn Celebra<g ref="char:EOLhyphen"/>tion of Your most dear Father's Funeral) be exposed to the Publick, for the Reasons follow<g ref="char:EOLhyphen"/>ing.</p>
+            <pb n="4" facs="tcp:105770:3"/>
+            <p> First, For Your Ladyships own information and satisfaction (in regard you could not be personally present) that there was nothing de<g ref="char:EOLhyphen"/>livered by me in my Character of him, but what he deserved, and what may pass (upon your own Knowledge) for a true and lively Pourtraicture of him in Little, as to his good Disposition, Nature and Conversation; the perusal whereof may he, perhaps, in process of time, as delightfull to your serious Re<g ref="char:EOLhyphen"/>flections in your Closet, as the beholding of some well-drawn Picture of his comely Person will be to your Eye in your Parlour or Din<g ref="char:EOLhyphen"/>ing-Room.</p>
+            <p>Secondly, For the necessary help and relief of one third part, at least, of the Auditory: Who, though they crowded into the Church as far as it was possible, yet were able to hear and understand very little or nothing of what was delivered, by reason of the unappeasable noise
+<pb n="5" facs="tcp:105770:3"/>and disturbance that was then made at the lower end of it by the rude Rabble. Now, These, I presume, would think their Loss ve<g ref="char:EOLhyphen"/>ry much aggravated, and say they have cause to Complain of me, if by my refusing to make it publick, they should be depriv'd both of the <hi>Shadow</hi> and <hi>Substance</hi> at once, as well of the <hi>Copy</hi> as of the <hi>Original.</hi>
+            </p>
+            <p>Thirdly and lastly, To make it appear that my sincere desire and endeavour is to preserve and to perpetuate, as far as I am able, the good Name and Memory of so deserving and worthy a Person; Where I shall not expatiate, but only intreat your Ladyship at present to moderate your Grief, to own the Lord's Hand in this sad Breach that is made in your Family, and in a word, to labour to make a right use of it for your spiritual good and growth in Grace; and then never doubt but that in due time he will
+<pb n="6" facs="tcp:105770:4"/>be pleased to repair and make up the same by ano<g ref="char:EOLhyphen"/>ther Relation to your great Comfort. Which is the daily Prayer and Desire of,</p>
+            <closer>
+               <salute>Dear Madam,</salute>
+               <lb/>
+               <signed>Your Ladyships most faithfull<lb/> Servant and Orator,<lb/>
+                  <hi>Jeremiah Dodson.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Study,</hi>
+                  <lb/>
+                  <date>Decemb. 1st.<lb/> 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="sermon">
+            <pb n="7" facs="tcp:105770:4"/>
+            <epigraph>
+               <q>
+                  <bibl>Psalm 37.37.</bibl>
+                  <p>Mark the perfect Man, and behold the up<g ref="char:EOLhyphen"/>right: For the end of that Man is peace.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>DAvid</hi>'s design in this 37th. Psalm was to prevent the Offence and Scandal that some might be very apt to take, when they saw the Prospe<g ref="char:EOLhyphen"/>rity of the Ungodly, and the many Afflictions of the Righteous; quite contrary to <hi>the Law of Moses,</hi> which promised all good things to them that kept it, and threatned all kind of Evil to them that observed it not: Whereupon he desireth the <hi>Faithfull</hi> to be only patient a little, and stay but a while, and then they should in due time see both the said <hi>Threatnings</hi> and <hi>Promises</hi> verified. And this he prosecuteth through the whole Psalm, and very industriously endea<g ref="char:EOLhyphen"/>vours to convince them of it; partly by repre<g ref="char:EOLhyphen"/>senting before them the different practices, ways and actions of those two different sorts of Men; part<g ref="char:EOLhyphen"/>ly by appealing to his own certain knowledge and ex<g ref="char:EOLhyphen"/>perience of the truth of it: For verse 25. <hi>I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.</hi> And lastly, by re<g ref="char:EOLhyphen"/>ferring the matter to the different Ends, which he was sure that Divine Providence would allot to them
+<pb n="8" facs="tcp:105770:5"/>accordingly; if Men would but only wait a while and take notice of them; For, <hi>Mark the perfect Man, and be<g ref="char:EOLhyphen"/>hold the upright;</hi> and you will always find <hi>that the End of that Man is Peace; But for the Transgressors they shall be destroyed together, and the End of the wicked shall be cut off.</hi> ver. 38. which Considerations were a<g ref="char:EOLhyphen"/>bundantly sufficient to quiet and comfort the minds of the <hi>Faithfull</hi> as to this matter, could they but forbear their unreasonable <hi>fretting, repining</hi> and <hi>murmuring</hi> at God's severe and dark dispensations towards them; (which he disswades them from with all earnestness in the beginning of the Psalm; in regard that therein <hi>God did but deal with them as Children;</hi> as the Apostle speaks: <hi>For what Son is he whom the Father chasteneth not?</hi> Hebr. 12.7.8.) and be content in stead of that, in their patience possess their Souls until they had seen the final upshot and issue thereof. This is the Sum of the whole Psalm in general.</p>
+            <p>His drift and scope in this verse, in particular is, To encourage all good Men to perserverance, what Afflic<g ref="char:EOLhyphen"/>tions or Tryals soever befall them, by setting before them the peace and happiness that shall be the certain lot and portion of all such at the last, at least; which the Wicked are no ways capable of: <hi>Mark the perfect Man, and behold the upright; For the end of that Man is peace: But the Transgressors shall be destroyed together; and the end of the wicked shall be cut off.</hi>
+            </p>
+            <pb n="9" facs="tcp:105770:5"/>
+            <p> In the words I observe two distinct things.</p>
+            <list>
+               <item>1. <hi>The good Man's Character</hi> and <hi>Description;</hi>
+                  <note place="margin">The D<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>vision o<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the wor<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> and that both with respect to his moral state and quali<g ref="char:EOLhyphen"/>fication, which denominateth him to be <hi>perfect and upright:</hi> And also with respect to his final state and happy condition hereafter, <hi>his end is peace.</hi>
+               </item>
+               <item>
+                  <hi>The Psalmist's Advice and Direction,</hi> how we may best make advantage of it unto our selves; and that is by taking special notice and considering of it: <hi>Mark the perfect Man, and behold the upright,</hi> &amp;c.</item>
+            </list>
+            <p n="1">1. <hi>General.</hi> I begin with <hi>the good man's</hi> Character <hi>and</hi> Description, <hi>and that with respect,</hi> first, <hi>to his moral state and qualification, during this Life, which denominateth him to be perfect and upright;</hi> which two words are render'd both by the <hi>Chaldee</hi> and <hi>Septuagint</hi> in the Abstract, <hi>Keep perfection, and observe uprightness:</hi> but our <hi>English Trans<g ref="char:EOLhyphen"/>lation</hi> (I humbly conceive) suiteth best with the Ori<g ref="char:EOLhyphen"/>ginal; and therefore I shall not deviate from it, but take and read them as I here find them in the Concrete: <hi>Mark the perfect man, and behold the upright:</hi> Which two words, <hi>perfect</hi> and <hi>upright,</hi> generally are look'd on by most, as equipollent synonymous Terms, importing both one and the same thing; <hi>perfect</hi> being as much as <hi>upright;</hi> and <hi>upright</hi> as <hi>perfect:</hi> But I rather think, that <hi>the former word perfect,</hi> intends the good Man's <hi>sincerity</hi> towards God; and the latter, <hi>upright,</hi> his <hi>integrity</hi> to<g ref="char:EOLhyphen"/>wards Men; and so both bespeak him in the language
+<pb n="9" facs="tcp:105770:6"/>of St. <hi>Paul,</hi> (<hi>Acts</hi> 24.16.) to be such a <hi>One as exerciseth him<g ref="char:EOLhyphen"/>self to have always a Conscience, void of offence, both toward God and towards Men.</hi> And this I am confirmed in by the ex<g ref="char:EOLhyphen"/>planation that to this purpose is given of them both in the 1. <hi>Job.</hi> ver. 1. <hi>There was a Man in the Land of Uz, whose name was Job: And that Man was perfect and upright, one that feared God, and eschewed evil.</hi> Where it is undeniable, that the former phrase, <hi>one that feared God,</hi> pointed at <hi>Job</hi>'s integrity to God-ward; and the latter of them, <hi>eschewed evil,</hi> at his unspotted Conversation and Up<g ref="char:EOLhyphen"/>rightness among Men: And for this cause, my purpose is to speak something of them distinctly and severally. And first, <hi>Mark the perfect Man:</hi> but where is there such a one to be met with? <hi>though we run to and fro through the streets of Jerusalem, and seek in the broad places thereof,</hi> (where Great Men (perhaps) the Prophet meant, who should be the best, had their Habitations:) <hi>Yet where shall we find a Man that deserves this noble Character?</hi> there was a time, indeed, when Man might be truly said to be <hi>perfect,</hi> I mean in his <hi>primitive state of Creation; for God,</hi> saith the Wise man, <hi>made man upright,</hi> Eccless. 7.29. but since <hi>Adam</hi>'s Fall he telleth us expresly, verse 20. <hi>That there is not a just man upon Earth, that doth good and sinneth not. For who can say, I have made my heart clean, I am pure from my Sin?</hi> Prov. 20.9. with 1. John 1.8. <hi>If I justifie my self</hi> (saith <hi>Job,</hi> chap. 9.20.) <hi>mine own mouth shall condemn me: If I say I am perfect, it shall also prove me perverse.</hi>
+            </p>
+            <pb n="10" facs="tcp:105770:6"/>
+            <p> To find out therefore and rightly understand <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s true meaning and very intention in this expressi<g ref="char:EOLhyphen"/>on, and reconcile it to the foregoing contradictory pas<g ref="char:EOLhyphen"/>sages of Holy Writ; I must desire you to distinguish betwixt <hi>an absolute and legal, a qualified and an Evangeli<g ref="char:EOLhyphen"/>cal perfection: The former of these,</hi> which lieth and con<g ref="char:EOLhyphen"/>sisteth in a full and exact universal conformity to the whole Law and Will of God, in being free from all pollution and stain of Sin, and having the Graces of God's Holy Spirit raised up to their highest pitch in Man's Soul: <hi>This,</hi> never any could justly pretend to on this side Heaven, save only <hi>Adam</hi> before his Trans<g ref="char:EOLhyphen"/>gression, <hi>and our Lord Jesus Christ himself, that was both God and Man:</hi> But yet <hi>a qualified and an Evangelical per<g ref="char:EOLhyphen"/>fection</hi> is attainable by all men in this life present: And this is that which the Psalmist here speaketh of. Which is distinguish'd again by the Learned into two Spe<g ref="char:EOLhyphen"/>cies, <hi>viz. The perfections of Parts,</hi> and <hi>of Degrees;</hi> by the former of these, <hi>he is said to be perfect: Cui nihil de est eorum quae ad statum salutis necessaria sunt; who wants no Graces that are necessary to,</hi> and which <hi>do accompany Salvation.</hi> By the latter, <hi>he is said to be perfect, who is not defective in any degree or measure of Grace;</hi> which is <hi>a perfection</hi> that none can attain to here upon Earth, where the best of us all must needs confess our selves to be <hi>Minors.</hi> In Heaven, it is true, <hi>The Spirits of just men shall be made perfect;</hi> (Heb. 12.23.) but here they
+<pb n="12" facs="tcp:105770:7"/>are only <hi>Viatores, Pilgrims and Strangers, seeking and striving after perfection;</hi> for till we have put off <hi>the Rags of corruption</hi> we cannot put on <hi>the Robes of perfection.</hi> In Scripture, therefore, when we are called upon <hi>to be per<g ref="char:EOLhyphen"/>fect, even as our Fathers in Heaven is perfect,</hi> the mean<g ref="char:EOLhyphen"/>ing is not, That we can actually attain to what is re<g ref="char:EOLhyphen"/>quir'd; but only to teach us what we should aim at, and what our desires and endeavours must tend to: viz. <hi>To strive to be holy, even as he which hath call'd us is holy in all manner of conversation,</hi> as 1. Pet. 1.15.</p>
+            <p>In short then, the Psalmist's <hi>perfect man</hi> here in this place is, <hi>Every sincere, good and righteous man; every un<g ref="char:EOLhyphen"/>feigned</hi> Israelite <hi>indeed, in whom is neither guile nor hyperi<g ref="char:EOLhyphen"/>sie;</hi> who in an <hi>Evangelical sense</hi> may be said to be <hi>per<g ref="char:EOLhyphen"/>fect</hi> these four ways.<note place="margin">The per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect mans Descrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion.</note>
+            </p>
+            <p n="1">1. <hi>Intentionally; perfection</hi> being the end and design of his desires and daily endeavours; And thus all the faith<g ref="char:EOLhyphen"/>full Servants of God may be said to be perfect, <hi>serv<g ref="char:EOLhyphen"/>ing the law of God with their minds</hi> (as St. <hi>Paul</hi> saith he did, <hi>Rom.</hi> 7.25.) <hi>and pressing forwards towards the mark, for the price of the high Calling of God in Christ Jesus:</hi> as <hi>Phil.</hi> 3.14. though at the same time they find and confess, that by reason of the manifold weaknesses and infirmities of humane Nature, they cannot chuse but more or less <hi>serve the Law of Sin,</hi> as He also did.</p>
+            <p n="2">2. <hi>Progressively;</hi> in regard he is in the right way to <hi>perfection;</hi> and as he began, so he goeth on in the paths
+<pb n="13" facs="tcp:105770:7"/>of true Wisdom, Piety and Peace, that bring Men to it. <hi>He groweth in grace,</hi> as St. <hi>Peter</hi> exhorts, 2. Epist. 3. and the last; <hi>And he goeth on from strength to strength. till at last he appeareth before God in Sion.</hi> Psalm 84.7. Which praise-worthy practice is call'd by St. <hi>Paul, our perfecting holiness in the fear of God.</hi> 2. Cor. 7.1. And in this respect a true Candidate of Grace is in this Life fit<g ref="char:EOLhyphen"/>ly compar'd to a young Child, which hath all the inte<g ref="char:EOLhyphen"/>gral parts of a Man, and upon that account is <hi>called</hi> a <hi>man,</hi> though he be not yet come to his full growth, stature and perfection.</p>
+            <p n="3">3. <hi>Comparatively;</hi> in regard of the great defects and deformities of other Men: And thus <hi>Noah,</hi> That <hi>first and most ancient Preacher of Righteousness,</hi> is said in Gen. 6.9. to be <hi>a just Man and perfect in his generations.</hi> Ho<g ref="char:EOLhyphen"/>ly <hi>Job a perfect and upright man,</hi> chap. 2.3. that is, <hi>one that so feared God, and eschewed Evil,</hi> as <hi>that,</hi> it appear<g ref="char:EOLhyphen"/>ed, <hi>there was none like him in all the Earth.</hi> And in this sense it is that God commandeth <hi>Abraham to walk before him and to be perfect.</hi> Gen. 17.1.</p>
+            <p n="4">4. <hi>Declaratively;</hi> Almighty God, for the merits sake of his own Son, our Lord Jesus Christ, account<g ref="char:EOLhyphen"/>ing him for such, and calling him such in his holy Word: And this is the highest pitch of <hi>perfection</hi> of a sincere faithfull good Man in this present Life. And this made the <hi>Father</hi> St. <hi>Augustin</hi> say, that the <hi>Saint's perfection</hi> in this world consisteth <hi>Magis in remissione pec<g ref="char:EOLhyphen"/>catorum,
+<pb n="14" facs="tcp:105770:8"/>quam in perfectione virtutum.</hi> which the Psalmist confirms in Psal. 32.1.2. <hi>Blessed is he whose Transgressi<g ref="char:EOLhyphen"/>on is forgiven, whose Sin is covered. Blessed is the Man unto whom the Lord imputeth not iniquity, and in whose spi<g ref="char:EOLhyphen"/>rit there is no guile.</hi> And thus for the <hi>first term in the geod man's Character and Description,</hi> which hath respect to his moral temper and qualification here in this life, and so bespeaks him to be a truly religious good Man to Almighty God-ward. <hi>Mark the perfect Man.</hi>
+            </p>
+            <p>The Second followeth, which bespeaks him to be very just and righteous in all his Actions and Dealings with Men;<note place="margin">Up<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>'s de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ion.</note>
+               <hi>Behold the upright,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the original word which properly signifieth <hi>right and straight,</hi> or <hi>plain and equal:</hi> And so <hi>the upright man</hi> here spoken of (taking the word, as I said before, in a kind of distinct and different sense from the word <hi>perfect</hi>) is <hi>One that ordereth his Conversation in all respects in a right manner;</hi> (which is the very Character that <hi>David</hi> giveth of a Candidate of Heaven. <hi>Psal.</hi> 50. <hi>ult</hi>) <hi>that is</hi> by the unalterable and the infallible <hi>Rules of uprightness;</hi> my meaning is, <hi>That of sound Reason, and of the unerring Law of God.</hi> Or, more particularly, <hi>The true upright man is one,</hi>
+            </p>
+            <p n="1">1. <hi>That taketh care and maketh it his practice to square all his actions and dealings with men by a right Rule,</hi> that is, One, or both of those before-named.</p>
+            <p n="2">2. <hi>That is acted and influenc'd in all that he doth by a right Principle;</hi> that is, <hi>That</hi> of real honesty and con<g ref="char:EOLhyphen"/>scientiousness,
+<pb n="15" facs="tcp:105770:8"/>and an habitual inward sense of the indispensible obligation that lieth upon him by vertue of <hi>the Law and the Prophets, To do unto all men, as he would have them do unto him, if the case were revers'd.</hi> And then,</p>
+            <p n="3">3. <hi>That directs all his Actions to a right End; The glo<g ref="char:EOLhyphen"/>ry of God, and the good of mankind;</hi> his Neighbours es<g ref="char:EOLhyphen"/>pecially, and those in particular that he hath to deal with. I do but only name these things for the more expedition.</p>
+            <p>And thus you have the compleat Character, or the Lineaments, at least, of a sincere and <hi>truly good man,</hi> during this life: <hi>He is both perfect towards God, and upright also towards Men;</hi> as he taketh care to <hi>give God his Right,</hi> so likewise <hi>to render unto all men their Dues,</hi> whether <hi>Superiours, Inferiours,</hi> or <hi>Equals. True Religion</hi> was al<g ref="char:EOLhyphen"/>ways <hi>a Friend to Justice, and Honesty, Mercy and Charity:</hi> Nay, <hi>those kind of Acts</hi> were always esteem'd the most substantial part of Religion, as appeareth by St. <hi>James</hi>'s Description of it, chap. 1.27. <hi>Pure Religion and unde<g ref="char:EOLhyphen"/>filed before God and the Father is this</hi> (saith he there) <hi>To visit the Fatherless and Widows in their affliction, and to keep himself unspotted from the World.</hi> compar'd with that in <hi>Psal.</hi> 15.1, 2, 3. <hi>Lord, who shall abide in thy Taber<g ref="char:EOLhyphen"/>nacle? who shall dwell in thy holy hill? He that walketh uprightly, and worketh righteousness, and who speaketh the truth in his heart. He that backbiteth not with his Tongue, nor doth evil to his Neighbour,</hi> &amp;c.</p>
+            <pb n="16" facs="tcp:105770:9"/>
+            <p> I come now to <hi>the other part of the good Man's De<g ref="char:EOLhyphen"/>scription,</hi>
+               <note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>racter.</note>
+               <hi>that is,</hi> with respect to <hi>his final state, and his most happy condition hereafter: The end of that man is peace The beginning,</hi> it's true, <hi>and middle part of that man's life</hi> generally <hi>is full of trouble, and full of misery;</hi> but the <hi>end thereof</hi> is <hi>rest and peace,</hi> quite contrary to the lot and portion of the Unrighteous, who commonly have their best days at first, and their worst at last. The Wise man,<note place="margin">
+                  <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>les.</hi> 9.</note> indeed, saith, <hi>That there is one event to the Righte<g ref="char:EOLhyphen"/>ous, and to the Wicked; to the Clean, and to the Unclean; to him that sacrificeth, and to him that sacrificeth not:</hi> but <hi>that</hi> respects only the <hi>matter,</hi> not the <hi>manner</hi> of those Men's <hi>Ends;</hi> which so vastly differ, that <hi>Balaam</hi> made it his principal wish, <hi>O let me dye the death of the Righte<g ref="char:EOLhyphen"/>ous:</hi> for <hi>the end,</hi> he saw, of <hi>that man would be peace.</hi> More particularly, here are two terms that require Expli<g ref="char:EOLhyphen"/>cation. 1. <hi>The word End.</hi> and then 2. <hi>The word Peace.</hi>
+            </p>
+            <p n="1">1. <hi>The word End:</hi>
+               <note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> word <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d.</note> an Ambiguous term, which seemeth to be capable of a three-fold interpretation here in this place. For either,</p>
+            <p n="1">1. <hi>We may understand it of the good end and happy issue of all the troubles, afflictions and tryals, that do befall good and righteous men in their earthly Pilgrimage; the good end, I mean, which the divine Wisdom and Providence, in mercy towards them, propounds to it self, and aimeth at for them;</hi> which is call'd by St. <hi>James, The end of the Lord,</hi> as being graciously design'd by him, and order'd by him for
+<pb n="17" facs="tcp:105770:9"/>their true good, and evermore ending therein; how irksome and grievous soever the passage, through storms and tempests, hardships and dangers leading thereto, may seem unto them. <hi>Behold</hi> (saith he) chap. 5.11. <hi>we count them happy which do endure.</hi> but why and where<g ref="char:EOLhyphen"/>fore? he giveth both a <hi>Reason,</hi> and a most remarka<g ref="char:EOLhyphen"/>ble <hi>Instance</hi> to prove it: his <hi>Instance is Job,</hi> the misera<g ref="char:EOLhyphen"/>blest Man, we may presume, for some space of time that ever was heard of; forasmuch as he was wholly given up by God (he and all that he had, save only his Life) to the utmost malice and cruelty of Satan, for a <hi>thorow trial of his Integrity;</hi> which he <hi>retain'd still to the last,</hi> with such admirable patience and perseve<g ref="char:EOLhyphen"/>rance as made him renowned all the World over; and therefore (saith he) <hi>Ye have heard of the patience of</hi> Job: <hi>His Reason was God's good end and aim in all his afflictions,</hi> which was to try him, as Silver and Gold are try'd in the Fire; and thereby render his happy condition af<g ref="char:EOLhyphen"/>ter all, as well as Vertues, the more conspicuous: For his History telleth us, <hi>Job.</hi> 42.12. that <hi>the Lord blessed the latter end of Job more than his beginning:</hi> which was a thing so very notorious, that it was as certainly known and believ'd by all the Faithfull, as if they had seen it: And therefore (saith he) <hi>Ye have also seen the end of the Lord,</hi> and find <hi>that the Lord is very pitifull, and of tender mercy</hi> towards his Servants; for <hi>he never</hi> afflicts them <hi>but for their real good and profit:</hi> as the A<g ref="char:EOLhyphen"/>postle
+<pb n="18" facs="tcp:105770:10"/>speaketh, (Hebr. 12.10.) <hi>That they may thereby be made partakers of his holiness.</hi> Now, whether <hi>the good man's End</hi> in this sense, (which seemeth most agreeable to the Psalmist's main drift and scope in this place) may not be truly said to be <hi>grace, mercy and peace,</hi> I leave you to judge. <hi>David,</hi> I am sure, by happy experience found it to be so; who being come to <hi>this comfortable End,</hi> and casting an Eye back upon all that had befaln him in order thereto, thankfully saith, <hi>That it was</hi> in<g ref="char:EOLhyphen"/>deed <hi>good and happy for him that he had been afflicted.</hi> Psal. 119.71. And so did St. <hi>Paul,</hi> and all true Believers that were his Contemporaries; nay, <hi>not only so; but they gloried also in Tribulations;</hi> (Rom. 5.3.) <hi>as knowing well</hi> that though <hi>no chastning for the present seemed to be joyous, but rather grievous, yet nevertheless afterward</hi> (that is, at the End) <hi>it yielded the peaceable fruits of Righteousness un<g ref="char:EOLhyphen"/>to them which are exercised thereby.</hi> And thus much for the first interpretation of <hi>the word End,</hi> as it de<g ref="char:EOLhyphen"/>noteth <hi>the happy issue of all the troubles, afflictions and try<g ref="char:EOLhyphen"/>als that do befall good and righteous men in their Earthly Pilgrimage;</hi> or, <hi>the End, if you will, which the Divine Wisdom and Providence, in mercy towards them, propounds to it self, and aimeth at for them.</hi> Again,</p>
+            <p n="2">2. <hi>We may understand it of the end and period of the good man's natural Life, by the stroke of Death:</hi> of which <hi>Moses</hi> speaketh, <hi>Deut.</hi> 32.29. <hi>Oh that they were wise, that they understood this, that they would consider their latter end!</hi> for that is the way that <hi>perfect and upright men</hi> do always
+<pb n="19" facs="tcp:105770:10"/>take, that so <hi>their End in this sense may be Peace.</hi> Now there is a two-fold Peace that accrueth to good and righteous Men at this End.</p>
+            <p n="1">1. <hi>Peace with God, through our Lord Jesus Christ, who is both their Peace in the Abstract.</hi> Ephes. 2.14. And by the price of His precious Blood and infinite Merit, hath also <hi>purchas'd Peace for all such.</hi> And this St. <hi>Paul</hi> speaks of, Rom. 5.1. <hi>Therefore being justified by Faith, we have peace with God, through our Lord Jesus Christ.</hi>
+            </p>
+            <p n="2">2. <hi>Peace from God: that Peace</hi> which is called <hi>the Peace of God, which passeth all understanding,</hi> Phil. 4.7. <hi>Out of the Eater came forth Meat, and out of the Strong came forth Sweetness:</hi> said <hi>Sampson</hi> in his <hi>Riddle:</hi> signifying thereby <hi>the Honey he found in the dead Lyon's Carcase.</hi> Judg. 14.14. And so it is here; for the Righteous Man departs with Rejoycing, or the Ho<g ref="char:EOLhyphen"/>ney, at least, of Assurance in his Heart; that bitter Cup being sweetned by the good <hi>Hope that he hath in his Death.</hi> Prov. 14.32.</p>
+            <p n="3">3. <hi>We may understand it of the most blessed state and condition of everlasting Peace and Happiness which is re<g ref="char:EOLhyphen"/>served for him in Heaven, at the end of all things,</hi> after the final Sentence and Doom at the Day of Judgment; <hi>When he shall enter into Peace;</hi> (as the Prophet telleth us, <hi>Isai.</hi> 57.2.) that is, <hi>the state and happy place of Eter<g ref="char:EOLhyphen"/>nal Bliss;</hi> where there is nothing at all but <hi>Peace for ever and ever.</hi> And this may suffice to discover unto
+<pb n="20" facs="tcp:105770:11"/>you the full sense and meaning of this word <hi>End,</hi> here in this Text; where, at the same time, all under one, I have likewise shew'd you <hi>What kind of Peace</hi> the said several <hi>Ends</hi> of <hi>every perfect and upright Man are ever<g ref="char:EOLhyphen"/>more accompanied with;</hi> and therefore I hope that for brevities sake I may be excused from speaking any thing more of <hi>that Term,</hi> I mean, <hi>The word Peace.</hi> But here a Question must be resolv'd.</p>
+            <p>Query. <hi>Whether the perfect and upright Man have this Reward, The Blessing of Peace at his latter End only?</hi> For that would afford but little Encouragement to any that are not fully perswaded of the Souls Immortality, and of the Rewards of another Life.</p>
+            <p>
+               <hi>Answ.</hi> And therefore to this my <hi>Answer is</hi> Negative <hi>That the said peace, happiness and comfort of upright Men is not reserv'd and defer'd to their latter End only,</hi> viz. <hi>the Day of their Death, and their Joy after that in the presence of God</hi> but that they enjoy it also in this Life, on this side the Grave, in their well-contented and pious Minds and Souls, at the least. <hi>Great peace have they that love thy Law and nothing shall nor can offend them.</hi> Psal. 119.165. Isa<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 26.3. <hi>Thou wilt keep him in perfect peace, whose mind is stay'd on Thee.</hi> chap. 32.17. <hi>The works of Righteousness shall be peace, and the effects of Righteousness, quietness and assurance for ever.</hi> John 16.33. <hi>These things I have spoke<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unto you, that in me ye might have peace, in the world y<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shall have tribulation: but be of good cheer, I have overcom<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:105770:11"/>the World.</hi> with <hi>chap.</hi> 14.27. <hi>Peace I leave with you, my peace I give unto you,</hi> that is, <hi>peace of Conscience: let not your heart therefore be troubled, neither let it be afraid.</hi>
+            </p>
+            <p>
+               <hi>Use.</hi> 1. Now seeing it is thus; <hi>As we therefore wish for true peaee and comfort, either in Life or Death, either here or hereafter; so let it be our great care and endeavour that we may deserve the Description and Character of the good Man here in my Text:</hi> And in this matter, let all be sincere, and flee from hypocrisie; for those that ap<g ref="char:EOLhyphen"/>prove themselves to be such,<note place="margin">
+                  <hi>Psal.</hi> 5.</note>
+               <hi>They shall receive this Bles<g ref="char:EOLhyphen"/>sing of peace from the Lord here, sooner or later; and at the last day a Crown of Righteousness from the God of their Sal<g ref="char:EOLhyphen"/>vation. Light</hi> (saith Psal. 97.11.) <hi>is sown for the Righ<g ref="char:EOLhyphen"/>teous, and Gladness for the upright in heart;</hi> whereof in due time he shall <hi>reap and receive a plentifull crop in the Mansions of peace.</hi> And with this I dismiss the (1. <hi>Gene<g ref="char:EOLhyphen"/>ral part</hi>) contained in the Words, <hi>The good Man</hi>'s <hi>Cha<g ref="char:EOLhyphen"/>racter and Description,</hi> both with respect to <hi>his moral State and Qualification,</hi> which denominates him to <hi>be perfect and upright,</hi> and also with respect to <hi>his final state and condition hereafter,</hi> which promiseth and pro<g ref="char:EOLhyphen"/>nounceth him <hi>to be blessed and happy; for the End of that Man is peace.</hi>
+            </p>
+            <p n="2">2. <hi>General.</hi> The second follows in as few words as may be. <hi>The Psalmist's Advice and Direction here, how we may best make advantage of this rare Object unto our selves;</hi> and that is by taking special notice and consi<g ref="char:EOLhyphen"/>dering
+<pb n="22" facs="tcp:105770:12"/>of it: <hi>Mark the perfect Man, and behold the up<g ref="char:EOLhyphen"/>right.</hi> In the foregoing words, he sets down his Re<g ref="char:EOLhyphen"/>marks upon the <hi>now flourishing,</hi> and then again <hi>quickly perishing</hi> state of the <hi>wicked; I have seen the wick<g ref="char:EOLhyphen"/>ed in great power, and spreading himself like a green Bay: Yet he passed away, and lo, he was not; yea, I sought him but he could not be found.</hi> In direct opposition to which, he refers himself here to the most strict observation of Others, as to the <hi>Righteous; whose End</hi> they would cer<g ref="char:EOLhyphen"/>tainly find <hi>to be peace:</hi> And this is done, as it appears, the more fully and clearly to convince All of the great difference that is betwixt good and bad Men; as in their ways and actions of Life, so in their Rewards: And to teach us withal, That what he observed in his days, in particular, might be observ'd, and would be made good in all times in general; <hi>The Almighty being the same yesterday and to day, and for ever. The provi<g ref="char:EOLhyphen"/>dence of God</hi> (saith a late worthy Preacher) ever acts like it self; And though it may vary in particular Circum<g ref="char:EOLhyphen"/>stances, yet still ever keepeth to its general rule, <hi>Of re<g ref="char:EOLhyphen"/>warding every one,</hi> at last at the least, <hi>according to their Works.</hi> And therefore Men's former experiences are just grounds of present and future Confidence; And <hi>past Dispensations of Divine Providence</hi> towards the Righ<g ref="char:EOLhyphen"/>teous and the Ungodly, may encourage Believers to look for the same. And thence it is that <hi>David</hi> con<g ref="char:EOLhyphen"/>tents not himself with his special Remarks on <hi>the lat<g ref="char:EOLhyphen"/>ter</hi>
+               <pb n="23" facs="tcp:105770:12"/>only, but earnestly calls upon All in these words, to make the like on <hi>the former</hi> also: saying, <hi>Mark the per<g ref="char:EOLhyphen"/>fect Man, and behold the upright.</hi>
+            </p>
+            <p>The <hi>Injunction</hi> is doubled to denote, I presume, both the <hi>Psalmist's earnestness and urgency;</hi> and also the <hi>Du<g ref="char:EOLhyphen"/>ties necessity,</hi> To prevent all those dangerous miscon<g ref="char:EOLhyphen"/>structions, which a slight Observation, and carnal Rea<g ref="char:EOLhyphen"/>son might otherwise be apt to make of God's proceed<g ref="char:EOLhyphen"/>ings and dealings with Men. Besides which, another Reason may be given of this double Exhortation, <hi>viz.</hi> That a double Object may be aimed at in this two<g ref="char:EOLhyphen"/>fold Expression: <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. <hi>The Righteous Man's good course of Life.</hi> And then,</item>
+               <item>2. <hi>His happy Death.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>First,</hi> In the course of his Life, his Intentions are known only to God, but his Actions are visible unto Men; And therefore our Saviour's Admonition to all such is, <hi>Let your Light so shine before Men, that they seeing <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our good Works may glorifie the Father which is in Heaven.</hi> Now, if good Men must do their Works so as that they may be seen, then Others are bound to see and behold them as they are done: And upon this ac<g ref="char:EOLhyphen"/>count, We must <hi>Mark the perfect Man, and behold the <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pright,</hi> for a two-fold good End.</p>
+            <p n="1">1. That we may be moved and induced thereby to <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove and honour him, and the Graces also of God's Holy Spirit, that are so evidently manifest in him.</p>
+            <p n="2">
+               <pb n="24" facs="tcp:105770:13"/> 2. That we may be provok'd and encourag'd there<g ref="char:EOLhyphen"/>by to make it our business to imitate him in it, <hi>his good course of life,</hi> I mean, upon Earth; which hath so many great and invaluable Blessings and Priviledges entailed upon it: As <hi>to live in peace here; To dye in peace</hi> with God and his own Soul, and Conscience: <hi>(a Mercy which passeth all understanding)</hi> And then after all, <hi>To enter into the Mansions of Peace,</hi> and <hi>there abide with Christ and his Angels, and the Spirits of just Men, made perfect for ever, and ever.</hi> And then,</p>
+            <p>
+               <hi>Secondly, Another Object</hi> that may be aim'd at, by the Psalmist, in this double Expression is, <hi>The good man's happy Death and Departure;</hi> upon which account it's well worth our while, with the utmost exactness, to <hi>mark and behold him;</hi> and as near as we can to be Fol<g ref="char:EOLhyphen"/>lowers of him; that so at the last we may All be so happy, as therein also to symbolize with Him. <hi>Whic<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God of his goodness and mercy grant unto every one of us.</hi> And so I conclude and dismiss my Discourse on <hi>thes<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Words.</p>
+            <p>The Consideration and Reason that moved me t<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pitch upon which, was the suitableness and applicable<g ref="char:EOLhyphen"/>ness of them (in the qualified sence that I have given o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them) to our Dear Brother and Neighbour, departed and that with respect both to his good Life and Act<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ons among us, and also to His surprizing Death an<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="25" facs="tcp:105770:13"/>Departure from us: And therefore <hi>this</hi> (as 'tis the <hi>best,</hi> because <hi>shortest</hi> and <hi>plainest,</hi> so it) might suffice, with<g ref="char:EOLhyphen"/>out any more words, <hi>for a true and full Character of Him.</hi> But if you please to consult the Scriptures, and you will scarce find any good Man, that was eminent<g ref="char:EOLhyphen"/>ly such, laid in the Grave without an Epitaph of Ho<g ref="char:EOLhyphen"/>nour: Something more therefore must be said by me, that so I may yield due praise and glory <hi>to God's Holy Name,</hi> for his special Grace vouchsafed unto Him; pay all due respect and honour to the Dead; and set a <hi>good Pattern</hi> before you, the Survivers.</p>
+            <p>And here now I have so much matter before me, that I know not which way to turn my hand to it. <hi>I<g ref="char:EOLhyphen"/>nopem me copia fecit.</hi> Plenty maketh me poor; for I have indeed, so much to say, that I know not with what, nor where to begin: However, seeing that a beginning my Account of him must necessarily have, it shall be with that, from which he himself deriv'd his Begin<g ref="char:EOLhyphen"/>ning, I mean, his <hi>Extraction;</hi> by vertue whereof he was descended of a worthy Progenitour, (<hi>Secretary</hi> (I think) to <hi>Charles</hi> the 5th. <hi>Emperour of Germany</hi>) who was One of the first (as he hath oft told me with his own Mouth) that cast off the Yoke of proud papal Tyranny: But I remember <hi>that</hi> of the Poet, <hi>Nam genus, &amp; proavos, &amp; quae non fecimus ipsi</hi> —<hi>Vix ea nostra voco.</hi> And therefore I would have you look upon that as the slenderest part of this Gentleman's Character;
+<pb n="26" facs="tcp:105770:14"/>though it must be confess'd, to his high commendati<g ref="char:EOLhyphen"/>on, that he was as stedfast in the profession of the Reform'd True Christian Religion unto the last, as his aforesaid great Grandfather was in his time zealous for it at first: Which he was commonly wont, in discourse, gratefully to attribute to the Religious good Education and Instructions that he had received from His own Parents, his Mother especially; whose Goodness and Piety he would many times take occa<g ref="char:EOLhyphen"/>sion to speak of with much complacency.</p>
+            <p>But waving these things as too remote, I shall have more than enough to say, though I limit my self to his own properly <hi>Personal</hi> Excellencies; of which I re<g ref="char:EOLhyphen"/>member, St. <hi>Chrysostom</hi> saith, That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>this is the best way to set forth a Pedigree.</hi> In short then, He was,</p>
+            <list>
+               <item>1. <hi>A generous spirited and worthy Gentleman.</hi>
+               </item>
+               <item>2. <hi>A just and an upright Man.</hi>
+               </item>
+               <item>3. <hi>A carefull and provident Man.</hi>
+               </item>
+               <item>4. <hi>A quiet and peaceable Man.</hi>
+               </item>
+               <item>5. <hi>And humble minded and affable Man.</hi> And then,</item>
+               <item>6. And lastly. <hi>A very kind-hearted and a good natur'd Man.</hi>
+               </item>
+            </list>
+            <p>All which commendable <hi>Qualifications</hi> were so noto<g ref="char:EOLhyphen"/>riously conspicuous in him, that I may be excused
+<pb n="27" facs="tcp:105770:14"/>from a distinct Enlargement upon them, because, I presume, I speak before none but Those that knew him, and consequently must needs have a very great value for him: And also because <hi>They</hi> may all be com<g ref="char:EOLhyphen"/>priz'd and briefly summ'd up in this pithy Encomium, <hi>That he was a very honest and a true-English-hearted good Christian: which,</hi> without flattery, I am sure is <hi>The just and true Character of him;</hi> To which, nothing more <hi>among the Judicious,</hi> would need to be added: But that I am obliged, for the glory of God's Grace, (as I pro<g ref="char:EOLhyphen"/>mised before) and to make my discourse the more edi<g ref="char:EOLhyphen"/>fying, To set <hi>Him</hi> up as a really excellent and worthi<g ref="char:EOLhyphen"/>ly imitable Pattern before you, for divers things. As,</p>
+            <list>
+               <item>1. <hi>For his true love to, and sober zeal for God and Religion.</hi>
+               </item>
+               <item>2. <hi>For his natural compassion and constant Charity to<g ref="char:EOLhyphen"/>wards the Poor.</hi>
+               </item>
+               <item>3. <hi>For his unspotted Loyalty to his Prince.</hi> And,</item>
+               <item>4. <hi>For his impartial, praise-worthy kindness and hospi<g ref="char:EOLhyphen"/>tality towards All that resorted unto his House, both Acquain<g ref="char:EOLhyphen"/>tance and Strangers.</hi> 1. I say,</item>
+            </list>
+            <p n="1">1. <hi>For his true Love to, and sober zeal for God and Religion.</hi> To this truly primitive, and best Reformed-Church in the World, (I mean, <hi>The Church of England</hi>) wherein he was born, baptiz'd and bred up; and where<g ref="char:EOLhyphen"/>of
+<pb n="28" facs="tcp:105770:15"/>he was a true Member; he was an immoveable and stedfast Friend; and that in an equal and an unaltera<g ref="char:EOLhyphen"/>ble opposition to both extremes of Popery and Super<g ref="char:EOLhyphen"/>stition on the one hand, and of Enthusiasm and groundless Phanaticism on the other: For his con<g ref="char:EOLhyphen"/>stant care and practice was <hi>To enquire for the Old paths, Where is the good way, and walk therein;</hi> as God directs, <hi>Jer.</hi> 6.16. and to pay his Devotions to the great God of Heaven and Earth, in <hi>that middle way</hi> which the blind Papists boldly call <hi>Heresie,</hi> and our prejudiced Dissenters have been unreasonably apt to call <hi>Popery.</hi> And in this he hath not been like <hi>a wavering Reed,</hi> or <hi> a Willow,</hi> but as a firm Oak and steady Pillar. In a word, Such was his love to the publick Solemnities of Divine Worship, that he never fail'd (unless hindred by Sick<g ref="char:EOLhyphen"/>ness, or the King's Business) to be present at them; and always frequented his own Parish-Church: Where his demeanour was so Devout, so Solemn and Grave, so Un-affected and truly Conformable; Kneeling and Standing, and Worshipping God as well with his Body, as with his Spirit, as occasion requir'd; that it plainly appear'd that he had a most awfull Sense of God's Presence, and of the sacredness of the Duties that he was then engag'd in. And now would All that hear me this day, but make him their Pattern, in this respect, I dare say, they would find both great satisfaction, at present, here in their Bosom
+<pb n="29" facs="tcp:105770:15"/>upon it; and they might also hope, that <hi>their latter End,</hi> like his, <hi>should be peace.</hi> Again, 2.</p>
+            <p n="2">2. <hi>Another thing for which I may set him up as an excel<g ref="char:EOLhyphen"/>lent Pattern before you, Was his natural Compassion and con<g ref="char:EOLhyphen"/>stant Charity towards the Poor,</hi> his poor Neighbours chiefly, and Strangers also; divers of which had dai<g ref="char:EOLhyphen"/>ly Relief both by Bread, Meat and Drink, and by Money also, at some special times, at his bountifull Gate. And as he thus did good all his Life-time at his own Home, so he hath left a very large Testimony of his Design, that his Goodness and Charity should and abroad (according to the good old Observation) now after his Death: Having bequeathed by his Last Will and Testament, 400 <hi>l.</hi> to the 4 Hospitals; and 100 <hi>l.</hi> to the Poor of this Parish, to be kept as a Stock, or lay'd out and improved for their better Re<g ref="char:EOLhyphen"/>lief: Besides many other considerable Legacies and Annuities to a very great value.</p>
+            <p n="3">3. <hi>Another thing was his untainted Loyalty towards his Prince:</hi> Wherein, as his own honest Boast was, <hi>No one was ever able to say, that black was his Eye.</hi> His was the true Primitive Loyalty, without any Shifts or Equivocations, Phanatical Distinctions, or Jesuitical Evasions; holding himself oblig'd in all cases, that were not sinfull, actively and cheerfully <hi>to obey;</hi> But in no case, nor for any Cause or Reason whatsoever, <hi>to resist or oppose lawfull Authority.</hi> 4. And lastly,</p>
+            <p n="4">
+               <pb n="30" facs="tcp:105770:16"/> 4. <hi>The last thing for which I may well propound him as a Pattern to All, was his unparallell'd Sweetness of Temper and Hospitality that discover'd it self towards All that re<g ref="char:EOLhyphen"/>sorted unto his House:</hi> Which though it might challenge more words, perhaps from me, to set forth it's praise, than any thing else that hath been yet mention'd; yet I shall use the fewest about it; in regard I believe there's scarce any one here that hath not experienc'd it over and over. Only one thing I cannot chuse but ob<g ref="char:EOLhyphen"/>serve, That though he was hugely obliging and cour<g ref="char:EOLhyphen"/>teous towards all <hi>Men in generall;</hi> yet he seem'd ever<g ref="char:EOLhyphen"/>more to shew his particular kind Respects to <hi>the Clergy</hi> with an extraordinary Delight and Complacency; be<g ref="char:EOLhyphen"/>ing never more chearfull than when in their Company; nor better pleased than when he had some of them at his Table; which was almost daily: Sure I am, that scarce ever any Preached here before him, but immedi<g ref="char:EOLhyphen"/>ately after, they were well Entertained at his House, and Feasted at his Table.</p>
+            <p>Thus lived this excellent praise-worthy Gentleman, whose Goodness and Kindness was so universal (like that of <hi>Titus Vespasian,</hi> who was thereupon called, <hi>The Delight of Mankind.</hi>) that it makes his Death justly lamented by All, both Clergy and Laity, Relations and Servants, Neighbours and Friends, and all that had any Acquaintance with him. And not without Reason, if we do but consider what hath been spok<g ref="char:EOLhyphen"/>en, and duly reflect upon our sad Loss.</p>
+            <pb n="31" facs="tcp:105770:16"/>
+            <p> But it is too late now to irritate <hi>Grief,</hi> which can do neither <hi>Us</hi> nor the <hi>Dead</hi> any good: Much bet<g ref="char:EOLhyphen"/>ter and sitter a Work it would be, to strive to admi<g ref="char:EOLhyphen"/>nister comfort to All, by minding them of the Psal<g ref="char:EOLhyphen"/>mist's assertion here in the Text, <hi>That the End of the upright good Man is Peace;</hi> And that our great Loss is our <hi>Dear Brother's</hi> far greater Gain; Who is now in possession of <hi>That state of happiness,</hi> which the Souls of sincere and humble Penitents are admitted unto after this Life.</p>
+            <p>There let us leave his Soul at Rest, and here com<g ref="char:EOLhyphen"/>mit his Remains to the Earth in a decent manner, till the <hi>Resurrection of the Upright</hi> at the last day. And in the mean time, whilst we have Health and Oppor<g ref="char:EOLhyphen"/>tunity, Let us strive to deserve this most excellent Character (as our dearest Friend did) nere in the Text: Let us imitate him in his true Love and Zeal for God and Religion, his Charity to the Poor, his Loyalty to his Prince, and his good Will and Kindness to All; and then we may hope that <hi>Our End shall be Peace;</hi> And that at the last, we shall have with him, and with all Those that are departed in the true Faith of God's Holy Name, our perfect consummation and bliss both in Body and Soul, in his Eternal and Everlasting Kingdom of Glory.</p>
+            <p>
+               <hi>For which blessed State,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
